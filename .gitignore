@@ -1,0 +1,11 @@
+.gradle
+.gradle/
+.idea/
+/build
+/gradle
+*.log
+*.db
+/src/main/java/bot/BotUtils.java
+*.properties
+gradlew
+gradlew.bat
